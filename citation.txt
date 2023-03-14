@@ -1,0 +1,6 @@
+@article{REPO-329,
+    author = "Chen, Xinru and Dong, Chengbo and Ji, Jiaqi and Cao, Juan and Li, Xirong",
+    journal = "international conference on computer vision",
+    title = "{Image Manipulation Detection by Multi-View Multi-Scale Supervision}",
+    year = "2021"
+}
